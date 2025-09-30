@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8Ro4z1rRVdo=",
+  "dgSpecHash": "MWIlqD+Oa28=",
   "success": true,
-  "projectFilePath": "C:\\Users\\TheRe\\source\\repos\\AstroVeridia\\AstroVeridia\\AstroVeridia.csproj",
+  "projectFilePath": "C:\\Users\\TheRe\\Source\\Repos\\AstroVeridia\\AstroVeridia\\AstroVeridia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\TheRe\\.nuget\\packages\\sixlabors.imagesharp\\3.1.11\\sixlabors.imagesharp.3.1.11.nupkg.sha512",
     "C:\\Users\\TheRe\\.nuget\\packages\\spectre.console\\0.51.1\\spectre.console.0.51.1.nupkg.sha512"

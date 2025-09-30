@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AstroVeridia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e9837fa1f102d9aa19a20a56177a37f70d3e0c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("AstroVeridia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AstroVeridia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
