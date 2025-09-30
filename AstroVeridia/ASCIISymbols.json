@@ -1,0 +1,77 @@
+{
+  "exclude": [
+    "**/bin",
+    "**/bower_components",
+    "**/jspm_packages",
+    "**/node_modules",
+    "**/obj",
+    "**/platforms"
+  ],
+  "groundTypes": [
+    {
+      "Name": "bare rock",
+      "Symbol": ".",
+      "Color": "#AC9B9E"
+    },
+    {
+      "Name": "metallic ore",
+      "Symbol": "*",
+      "Color": "#BA9799"
+    },
+    {
+      "Name": "regolith",
+      "Symbol": ":",
+      "Color": "#C79390"
+    },
+    {
+      "Name": "ice patch",
+      "Symbol": "_",
+      "Color": "#60CDD3"
+    },
+    {
+      "Name": "crater",
+      "Symbol": "O",
+      "Color": "#D88F73"
+    },
+    {
+      "Name": "basalt",
+      "Symbol": "#",
+      "Color": "#D69164"
+    },
+    {
+      "Name": "sand",
+      "Symbol": "~",
+      "Color": "#D19656"
+    },
+    {
+      "Name": "moss",
+      "Symbol": "M",
+      "Color": "#A7A741"
+    },
+    {
+      "Name": "soil",
+      "Symbol": ",",
+      "Color": "#C79B48"
+    },
+    {
+      "Name": "fertile soil",
+      "Symbol": ";",
+      "Color": "#B3A341"
+    },
+    {
+      "Name": "grassland",
+      "Symbol": "\"",
+      "Color": "#9AAB42"
+    },
+    {
+      "Name": "forest",
+      "Symbol": "^",
+      "Color": "#7CB14D"
+    },
+    {
+      "Name": "wetland",
+      "Symbol": "=",
+      "Color": "#008e81"
+    }
+  ]
+}
