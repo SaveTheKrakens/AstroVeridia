@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TheRe\\Source\\Repos\\AstroVeridia\\AstroVeridia\\AstroVeridia.csproj": {}
+    "C:\\Users\\acyork\\Source\\Repos\\AstroVeridia\\AstroVeridia\\AstroVeridia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TheRe\\Source\\Repos\\AstroVeridia\\AstroVeridia\\AstroVeridia.csproj": {
+    "C:\\Users\\acyork\\Source\\Repos\\AstroVeridia\\AstroVeridia\\AstroVeridia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TheRe\\Source\\Repos\\AstroVeridia\\AstroVeridia\\AstroVeridia.csproj",
+        "projectUniqueName": "C:\\Users\\acyork\\Source\\Repos\\AstroVeridia\\AstroVeridia\\AstroVeridia.csproj",
         "projectName": "AstroVeridia",
-        "projectPath": "C:\\Users\\TheRe\\Source\\Repos\\AstroVeridia\\AstroVeridia\\AstroVeridia.csproj",
-        "packagesPath": "C:\\Users\\TheRe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TheRe\\Source\\Repos\\AstroVeridia\\AstroVeridia\\obj\\",
+        "projectPath": "C:\\Users\\acyork\\Source\\Repos\\AstroVeridia\\AstroVeridia\\AstroVeridia.csproj",
+        "packagesPath": "C:\\Users\\acyork\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\acyork\\Source\\Repos\\AstroVeridia\\AstroVeridia\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\TheRe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\acyork\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -75,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

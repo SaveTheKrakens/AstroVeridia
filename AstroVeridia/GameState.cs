@@ -33,6 +33,10 @@ namespace AstroVeridia
 
         private void EnterGameState()
         {
+            // Start initializing the map
+            MapBuilder mapBuilder = new MapBuilder(level);
+
+            // Run the map until the gamestate changes
             while(gameStates == GameStates.GAMESTATE)
             {
                 // Clear and refresh the title
@@ -42,6 +46,7 @@ namespace AstroVeridia
                 displayScreen.DisplayGameScreen();
 
                 // For testing
+                Console.WriteLine(mapBuilder.GetMapSize().ToString());
                 Console.WriteLine("Press any key to continue...");
                 Console.ReadKey(true);
             }

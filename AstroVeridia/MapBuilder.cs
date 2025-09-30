@@ -14,7 +14,7 @@ namespace AstroVeridia
     {
 
         /*--CLASS LEVEL VARIABLES-----------------------------------------------------VARIABLES--*/
-        private int currentLevel;
+        private int currentLevel = 1;
         private int mapWidth;
         private int mapHeight;
         private GroundTile[,] currentMap;
@@ -31,6 +31,30 @@ namespace AstroVeridia
         }
 
         /*--METHODS---------------------------------------------------------------------METHODS--*/
+        public GroundTile[,] GetChunk(int x, int y, int width, int height)
+        {
+            GroundTile[,] chunk = new GroundTile[width, height];
+
+            // Make sure that we have a map first
+            if (currentMap != null)
+            {
+
+                // Make sure that x,y is in the chunk to begin with
+                if(x >= currentMap.GetLength(0) || y >= currentMap.GetLength(1))
+                {
+
+                }
+                
+            }
+            else
+            {
+                Console.WriteLine("No current map made yet");
+                Thread.Sleep(2000);
+            }
+
+            return chunk;
+        }
+        
         public void DrawMap()
         {
             if(currentMap != null)
